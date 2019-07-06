@@ -1,0 +1,2 @@
+# getting_started_hbase
+HBase徹底入門をアプリケーション開発
